@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "earningsplaynewsheet",
+  "private_key_id": "748c7181e8676b496734761a6ff6f916cd31b0a8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCw30Dn4ki7vmPD\nz/f2gW2JXKt/X1y6upUAmnTb3DjAQ6tNLZrrIJgJkdIoNAqPwNZv8zAUWAHsk4Ho\nEih8t1D3CMXXzOtRbbV9Eyz5Fz9LgK2JD0KTPBo56BWYRDBj+nP6XS55TkWWrhct\nts9hJeYiyGG510bPtePduqwCpoiU9bErXLOtbFboAdY58w5Xs8Az9JfuKR1GHBtU\n/h1pe4PufGNHmnO9YZ1dOcjNmKlplWBKYMYEAL+6qXajS1Kc3d/4w6Z651sTdpnR\nasA6C6lNvKk4dJYmKFnwIhb88HUYZ7C46oRtGRZhz+DRnh2k+y60Qdo1a2SZ450a\nkBB+OA4vAgMBAAECggEACJUwBOox71i9mWeCt9jvlzMCm3HlzqXcZYtMamYIVvdL\nQ7mxaWfk5Z0u3oaP9wo7hAxmY9/vAytK3X3fR+LS/S0IZ+cCVqqez1mNdogbQsjh\n77AbrrtdTNWnRQLiE9seb6K/7S3QKkMUzg7iuoS1SZc04gJa5ekEpeJq4GhzLkJp\n+Tn8LerZbON0yJmBL3R4KbfHCNCjXmqIQ1w4sAC3dC32l2iXmU1G2rx7u98d2Wrd\nS7B2Mm++wgYO1L4txJ22g2k/uGN0g+g7nT8GbtJO+Kafr2kOiLgOFPuhHwPVUQcQ\n6XsCKdWge2vmtC3bFYMnOa+X2zqpv2QBM4HE5KawsQKBgQDmJRnNVnvu7dNNmvjA\nhYHmb/l2PMKieuqamAV+tUD4e0wDyedU9ravdHh8DM8wCfvlxzfaZ9chfzof+jT3\n32q8aboRa5NOXyJFt3HFXEObS0lD4HEUaRmHrBELrVsdMfH2QPLz9YYLUR7Rz/D2\ndvjJ+XTw2HEWm0d2XsoF3cZZNwKBgQDEvgqyDk+4crqor9vw+lOgTpp9TOaRy7NO\nxgtngzibs+yUceZlm1Zo7OGvxPPnKXrEekrZ9PkDiJEgkNMMk6osTpPeDXJXO4nE\n/FBcv40VGL/HENNr9Sp6/J+lbc5Xba6UvESdEdNaD+dy+owo68njixBG6pBzmVTE\nKaPIEb0OyQKBgAeUBSt7w4z0i9asWbCNNN/PpBk+mvIatgrtIpEviroj5TbiuRlV\nHmLcpPMAwPnF+mNwkehBLxZNSC6xYHkhBDS8DoJwVmNoQoqlJbvn89nzOrBffZm8\ndDjBc7Y8uRlXAa6oKNfbp9RLkYY7IKYc+Mg9zJn5po+mAU5mhKR4zwU1AoGAJCcz\n+fJNTfyvNk5SoV6uvVeUZhAakpIXGhOkhtoDLgGLKOAhUWyRHWjiNBWCKGlj6PT8\nCj9M/ww6dvyF+9qqu8eYvoZEC6miMHOZJOICP+0zWJZL85uyubTwdUrPTxuVqDlM\ndnyPFQ61HljSJrble43TaOSztLppbD6mnR49WpkCgYA0VdLJREFlelgIh1iO8vNw\n3ZCs3i6CvadqpoxneEPn5DjvcJePMvd024DCXwQtC0ANCM9jEJnDK0mWObjBTFWJ\nXl7p34DMZcQJVBbd/U1/OYr3TI8HBGrMSFT4omINr9vvts/SO1RS1FUS91itz5vL\n57E097bYOBifLhqMB8k/oQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "earningsplayaccess@earningsplaynewsheet.iam.gserviceaccount.com",
+  "client_id": "115503614067792550595",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/earningsplayaccess%40earningsplaynewsheet.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
