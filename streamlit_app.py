@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 from gspread_dataframe import get_as_dataframe
+import json
 
 #python3 -m streamlit run streamlit_app.py
 
@@ -13,7 +14,12 @@ from gspread_dataframe import get_as_dataframe
 @st.cache_data
 def load_master_from_google_sheets():
     scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-    creds = ServiceAccountCredentials.from_json_keyfile_name("earningsplaynewsheet-748c7181e867.json", scope)
+
+    json_str = st.secrets["GOOGLE_SHEETS_CREDENTIALS"]
+    creds_dict = json.loads(json_str)
+    creds = ServiceAccountCredentials.from_json_keyfile_dict(creds_dict, scope)
+
+
     client = gspread.authorize(creds)
     sheet = client.open_by_key("19M06LpwDMRQzBgTAewlN8aq300ukLw1xVC-ObX1vcgw").worksheet("Master2025")
     df = get_as_dataframe(sheet, evaluate_formulas=True, header=0)
